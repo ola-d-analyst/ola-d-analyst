@@ -1,5 +1,5 @@
 ## About Me
-### Oladipupo Irawoola
+### Oladipupo Irawoola /ola-d-analyst
 **Research and Development | Data Analyst**
 
 Experienced Data Analyst specializing in **Market and Sales Analytics** within **SaaS**. I leverage a powerful combination of **MS Excel**, **SQL**, **Power BI**, and **Python** to derive actionable insights that drive strategic decision-making and optimize performance.
