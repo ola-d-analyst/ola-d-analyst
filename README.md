@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ola-d-analyst
--
 ## About Me
 ### Oladipupo Irawoola
 **Research and Development | Data Analyst**
